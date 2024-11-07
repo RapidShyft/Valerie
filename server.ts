@@ -1,3 +1,4 @@
+// run bot on deno using webhooks
 import { bot } from "./bot.ts";
 import { webhookCallback } from "./deps.deno.ts";
 
